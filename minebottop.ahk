@@ -1,4 +1,5 @@
 Home::
+; То с какой частотой ресурсы будут сбрасываться в машину
 chastota_sbrosa:=200
 vikopaltmp:=0
 vikopal:=1
