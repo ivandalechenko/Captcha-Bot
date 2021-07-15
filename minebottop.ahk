@@ -7,7 +7,6 @@ fail:=0
 sum1sproba:=0
 FormatTime, TimeString,, HH:mm:ss
 FileAppend,%TimeString% | Bot start`n, log.txt
-
 	Loop{
 		PixelGetColor, color, 1136, 560	
 		if (color = 0x78D0F1){
