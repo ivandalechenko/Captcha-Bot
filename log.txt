@@ -1,0 +1,27 @@
+17:30:22 | Bot start
+17:30:22 | CPCH color found 
+17:30:36 | Pixels scaned 
+17:30:36 | Deleted noise 
+k kkkkdd kkkk k
+17:30:37 | KD array found 
+17:30:37 | KD array splited |  kkkkdd -  kkkk k 
+17:30:37 | Transform ch_code to ch 
+17:30:37 | 5 + 3 = 8 | Latest: 0 
+17:30:37 | CPCH color found 
+17:30:51 | Pixels scaned 
+17:30:51 | Deleted noise 
+k kkkkdd kkkk k
+17:30:51 | KD array found 
+17:30:51 | KD array splited |  kkkkdd -  kkkk k 
+17:30:51 | Transform ch_code to ch 
+17:30:51 | 5 + 3 = 8 | Latest: 8 
+17:30:59 | CHPC INSERT, VALUE 4 
+17:30:59 | CPCH color found 
+17:31:01 | Bot pause 
+
+14:30:36 | Bot start
+14:31:02 | Bot start
+14:32:46 | Bot start
+14:33:29 | Bot start
+14:34:39 | Bot start
+14:35:00 | Bot start
